@@ -11,10 +11,10 @@
 <script>
 $(function(){
 	var formData = {
-			name: "배승준",
-			email: "jun@gmail.com",
-			password: "1234",
-			gender: "male"
+		name: "안대혁",
+		email: "kickscar@gmail.com",
+		password: "1234",
+		gender: "male"
 	} 
 	
 	$("#btn-getdata").click(function(){
